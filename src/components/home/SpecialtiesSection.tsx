@@ -15,27 +15,27 @@ const specialties: SpecialtyProps[] = [
   {
     title: 'Customer Experience',
     icon: 'https://ext.same-assets.com/826975594/2260566913.svg',
-    link: '/customer-experience'
+    link: '/CustomerExperience'
   },
   {
     title: 'Marketing Intelligence',
     icon: 'https://ext.same-assets.com/826975594/1491959855.svg',
-    link: '/marketing-intelligence'
+    link: '/MarketingIntelligence'
   },
   {
     title: 'Point Of Sale Audit',
     icon: 'https://ext.same-assets.com/826975594/8880833.svg',
-    link: '/auditoria-de-punto-de-venta'
+    link: '/PointOfSaleAudit'
   },
   {
     title: 'Insights Lab',
     icon: 'https://ext.same-assets.com/826975594/3063497943.svg',
-    link: '/insight-lab'
+    link: '/InsightsLab'
   },
   {
     title: 'Public Affairs',
     icon: 'https://ext.same-assets.com/826975594/1905932431.svg',
-    link: '/public-affairs'
+    link: '/PublicAffairs'
   }
 ];
 
@@ -56,7 +56,7 @@ const SpecialtiesSection = () => {
               className="group flex flex-col items-center hover:text-activa-blue transition-colors duration-300"
             >
               <Link href={specialty.link} className="w-full">
-                <div className="mb-4 transform transition-transform duration-300 group-hover:scale-110">
+                <div className="mb-4 transform transition-transform duration-300 group-hover:scale-110 text-green-600">
                   <Image
                     src={specialty.icon}
                     alt={specialty.title}

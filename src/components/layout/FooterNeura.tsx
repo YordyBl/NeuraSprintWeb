@@ -53,7 +53,7 @@ export const FooterNeura = () => {
 
           </div>
         </div>
-        <p className={"mt-6"}>&copy; 2024 NeuraSprint. All Rights Reserved.</p>
+        <p className={"mt-6"}>&copy; 2025 NeuraSprint. All Rights Reserved.</p>
       </footer>
   );
 };
