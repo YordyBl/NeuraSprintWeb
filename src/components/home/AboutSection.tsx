@@ -12,7 +12,7 @@ const AboutSection = () => {
         <div className="grid grid-cols-1 md:grid-cols-7 gap-8">
           <FadeInLeft className="md:col-span-4">
             <h2 className="text-4xl font-bold mb-4 font-cairo">
-              Somos <span className="text-activa-red">Activa</span>
+              Somos <span className="text-green-600">Neura Sprint</span>
             </h2>
             <p className="text-lg mb-6">
               En Activa conectamos los <strong>insights</strong> con la{" "}
