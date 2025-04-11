@@ -1,6 +1,4 @@
-import React from 'react'
-
-export const InsightsLab = () => {
+export default function InsightsLab() {
   return (
     <div>InsightsLab</div>
   )

@@ -1,9 +1,5 @@
-import React from 'react'
-
-const page = () => {
+export default function MarketingIntelligence() {
   return (
-    <div>MarketingInteliggence</div>
+    <div>MarketingIntelligence</div>
   )
 }
-
-export default page

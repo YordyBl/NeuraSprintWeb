@@ -1,9 +1,5 @@
-import React from 'react'
-
-const PublicAffairs = () => {
+export default function PublicAffairs() {
   return (
     <div>PublicAffairs</div>
   )
 }
-
-export default PublicAffairs

@@ -1,9 +1,5 @@
-import React from 'react'
-
-const PointOfSaleAudit = () => {
+export default function PointOfSaleAudit() {
   return (
     <div>PointOfSaleAudit</div>
   )
 }
-
-export default PointOfSaleAudit
