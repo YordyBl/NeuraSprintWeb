@@ -192,7 +192,8 @@ const Header = () => {
 
           <div className="flex items-center gap-4 md:flex-1 md:justify-center">
             <Image
-              src={MenuIcon}
+            src="/assets/menu.svg"
+
               alt="Menu"
               className="h-5 w-5 md:hidden"
               width={20}

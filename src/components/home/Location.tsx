@@ -20,11 +20,11 @@ const Location = () => {
           <p className="text-sm">gaba@gmail.com</p>
           <div className="flex justify-center gap-4 pb-4">
 
-          <Image src={SocialX} alt="Twitter" width={24} height={24} />
+          <img src={SocialX} alt="Twitter" width={24} height={24} />
  
-<Image src={SocialInsta} alt="Twitter" width={24} height={24} />
+<img src={SocialInsta} alt="Twitter" width={24} height={24} />
 
-<Image src={SocialLinkedIn} alt="Twitter" width={24} height={24} />
+<img src={SocialLinkedIn} alt="Twitter" width={24} height={24} />
 
           </div>
           <div>

@@ -13,7 +13,6 @@ export default function Home() {
     <div className="home-page">
       {/* <HeroSlider/> */}
       <Slider/>
-      {/* <HeroSlider /> */}
       <AboutSection />
       <SpecialtiesSection />
       <StudiesSection />

@@ -57,7 +57,7 @@ const SpecialtiesSection = () => {
             >
               <Link href={specialty.link} className="w-full">
                 <div className="mb-4 transform transition-transform duration-300 group-hover:scale-110 text-green-600">
-                  <Image
+                  <img
                     src={specialty.icon}
                     alt={specialty.title}
                     width={130}
