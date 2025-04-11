@@ -1,4 +1,3 @@
-import HeroSlider from '@/components/home/HeroSlider';
 import AboutSection from '@/components/home/AboutSection';
 import SpecialtiesSection from '@/components/home/SpecialtiesSection';
 import StudiesSection from '@/components/home/StudiesSection';
