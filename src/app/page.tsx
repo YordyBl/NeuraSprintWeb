@@ -6,11 +6,14 @@ import ClientsSection from '@/components/home/ClientsSection';
 import OurTeam from '@/components/home/OurTeam';
 import SliderTestimonial from '@/components/home/SliderTestimonials';
 import  Location  from '@/components/home/Location';
+import Slider from '@/components/home/Slider';
 
 export default function Home() {
   return (
     <div className="home-page">
-      <HeroSlider />
+      {/* <HeroSlider/> */}
+      <Slider/>
+      {/* <HeroSlider /> */}
       <AboutSection />
       <SpecialtiesSection />
       <StudiesSection />
